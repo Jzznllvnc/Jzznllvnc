@@ -20,7 +20,6 @@ I'm a 4th-year IT student based in the **Philippines**, passionate about creatin
   <img src="https://img.shields.io/badge/-APIs-007FFF?style=flat-square&logo=dependabot&logoColor=white" alt="APIs Badge"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white" alt="XAMPP Badge"/>
 </p>
 
