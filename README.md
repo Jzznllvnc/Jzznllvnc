@@ -1,4 +1,4 @@
-# Hi there, I'm Jazznelle Vince Arambulo! 👋
+# Hi there, I'm Jazznelle Vince! 👋
 
 ---
 
