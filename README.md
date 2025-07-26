@@ -1,6 +1,6 @@
 # Hi, I'm Jazz <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" />
 
-### 卍 &nbsp;&nbsp;Tech Stacks
+### 卍 &nbsp;&nbsp;Tech Stacks & Technologies
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
