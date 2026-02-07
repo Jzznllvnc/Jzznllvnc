@@ -21,7 +21,7 @@
 <table align="center" border="0" border-radious="50%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jzznllvnc&theme=holi&hide_border=false&include_all_commits=false&count_private=false" alt="Jzznllvnc's GitHub stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jzznllvnc&theme=holi&hide_border=false&include_all_commits=false&count_private=false" alt="Jzznllvnc's GitHub stats" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Jzznllvnc&theme=holi&hide_border=false" alt="Jzznllvnc's GitHub streak" />
