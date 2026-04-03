@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/5477260e-0d08-4d2d-a4e4-6e41386f8714" alt="Profile Banner" width="100%">
+
 # Hi, I'm Jazz <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" />
 
 ### 卍 &nbsp;&nbsp;Tech Stacks & Technologies
