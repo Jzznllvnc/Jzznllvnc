@@ -7,7 +7,7 @@
 </p>
 <br>
 
-<h3 align="center">卍 &nbsp;&nbsp;Tech Stacks & Technologies</h3>
+<h3 align="center">⧉ &nbsp;&nbsp;Tech Stacks & Technologies</h3>
 <br>
 
 <p align="center">
