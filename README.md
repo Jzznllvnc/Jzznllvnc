@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a5a825b9-f8f1-4e47-bd26-64c56003b7f9" alt="Profile Banner" width="100%">
+<img src="https://github.com/user-attachments/assets/c0e3e89d-b2b1-4da3-b8ce-208797929c1d" alt="Profile Banner" width="100%">
 
 # Hi, I'm Jazz <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" />
 
