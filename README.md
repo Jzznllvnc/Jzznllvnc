@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/d29ec7c1-770b-4985-b232-e55ea1beabb1" alt="Profile Banner" width="100%">
+<img src="https://github.com/user-attachments/assets/ba50d24d-9368-4ba9-91dc-dfa6249371cc" alt="Profile Banner" width="100%">
 
 <br>
 <br>
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-
 <h3 align="center">၊၊||၊ &nbsp;&nbsp;GitHub Stats</h3>
 <br>
 <table align="center" border="0">
@@ -34,3 +33,4 @@
     </td>
   </tr>
 </table>
+
