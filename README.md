@@ -3,7 +3,7 @@
 <br>
 <br>
 <p>
-  Hi, I'm <b>Jazz</b>! an IT student based in the Philippines. I do building web apps as a hobby/freelancing, and other tech related services. You can check it out and visit my portfolio website <a href="https://jzznllvnc.tech/">here</a>.
+  Hi, I'm <b>Jazz</b>! I build web apps as a hobby/freelancing, and other tech related services. You can check it out and visit my portfolio website <a href="https://jzznllvnc.tech/">here</a>.
 </p>
 <br>
 
